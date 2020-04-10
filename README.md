@@ -27,5 +27,5 @@ QUARAN WATCH: TITLE
 
 DATA FLOW: Counter resides wihtin the app only
 REQUIREMENTS: ANDROID NOUGAUT OR ABOVE
-APK 23 or above
+API 23 or above
 
